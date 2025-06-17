@@ -105,7 +105,7 @@ Neuron DLAMIs: This release updates MultiFramework AMIs to include PyTorch 2.6, 
        * See more at :ref:`announcements-main`
      - Inf1, Inf2, Trn1/Trn1n
 
-For detailed release artificats, see :ref:`Release Artifacts <latest-neuron-release-artifacts>`.
+For detailed release artifacts, see :ref:`Release Artifacts <latest-neuron-release-artifacts>`.
 
 
 Previous Releases
